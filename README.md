@@ -1,6 +1,7 @@
 <img src="https://github.com/jcbw/Hornsund_Project/blob/main/IGF%20EN%20colour.png" width=30% height=40%> 
 
 # Geometric_image_classification_substructure_Hornsund_Fjord
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19027080.svg)](https://doi.org/10.5281/zenodo.19027080)
 
 Geometric substructuring notebook for labelled classes over the Hornsund Fjord. All current versions of the notebooks are consolidated here. This continues from books (which may include for loop versions in repo):
 
